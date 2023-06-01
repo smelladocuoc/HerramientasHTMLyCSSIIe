@@ -10,7 +10,9 @@
  * Write any other JavaScript below
  */
 
-+( function() {
+// Initialization for ES Users
+
++(function () {
   const university = "UOC";
   console.log(`Hello, ${university}!`);
-} )();
+})();
